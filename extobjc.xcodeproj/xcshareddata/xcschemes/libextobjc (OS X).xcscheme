@@ -14,22 +14,22 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D2AAC07D0554694100DB518D"
-               BuildableName = "libextobjc_OSX.a"
+               BlueprintIdentifier = "28D76F7F1877D45000E75E55"
+               BuildableName = "libextobjc_OSX.dylib"
                BlueprintName = "libextobjc (OS X)"
                ReferencedContainer = "container:extobjc.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
             buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
             buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
+            buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0A8B2DB128A495D004AACE0"
-               BuildableName = "Logic Tests.octest"
+               BlueprintIdentifier = "28D76FB81877D5B700E75E55"
+               BuildableName = "OS X Tests.octest"
                BlueprintName = "OS X Tests"
                ReferencedContainer = "container:extobjc.xcodeproj">
             </BuildableReference>
@@ -46,8 +46,8 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0A8B2DB128A495D004AACE0"
-               BuildableName = "Logic Tests.octest"
+               BlueprintIdentifier = "28D76FB81877D5B700E75E55"
+               BuildableName = "OS X Tests.octest"
                BlueprintName = "OS X Tests"
                ReferencedContainer = "container:extobjc.xcodeproj">
             </BuildableReference>
